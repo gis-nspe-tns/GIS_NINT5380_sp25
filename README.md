@@ -1,1 +1,1 @@
-## Course repository for NINT5380 | CRN 15999 - Spring 2024 © 2025 by Stephen Metts is licensed under CC BY-NC-SA 4.0 
+## Course repository for NINT5380 | CRN 15999 - Spring 2025 © 2025 by Stephen Metts is licensed under CC BY-NC-SA 4.0 
